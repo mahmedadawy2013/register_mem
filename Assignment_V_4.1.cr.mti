@@ -1,0 +1,15 @@
+{E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file_tb.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_file_tb
+
+Top level modules:
+	Register_file_tb
+
+} {} {}}

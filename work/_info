@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\arcane
+vRegister_file
+Z1 !s100 @ogg4n?Cll41KZ2FOZFJ90
+Z2 I@eleRAILhEc6:VNlf1NJO2
+Z3 VRmFEF]nBRBdndCHZ[fF<_1
+Z4 dE:\Digital Diploma Ali EL Temsah\Courses\My Assignment Verilog\Assignment_V_4.1
+Z5 w1661653458
+Z6 8E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file.v
+Z7 FE:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file.v
+L0 21
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file.v|
+Z10 o-work work -O0
+Z11 n@register_file
+!i10b 1
+!s85 0
+Z12 !s108 1661654463.561000
+Z13 !s107 E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file.v|
+!s101 -O0
+vRegister_file_tb
+!i10b 1
+!s100 okFS^DD_9SD[>LI^>PO023
+Ii9;;h3E:Dkcc;bQk0jD0J0
+VS<0AKVV]7;9aJo9g_Sc>A0
+R4
+w1661654584
+8E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file_tb.v
+FE:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1661654586.162000
+!s107 E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file_tb.v|
+!s90 -reportprogress|300|-work|work|E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_4.1/Register_file_tb.v|
+!s101 -O0
+R10
+n@register_file_tb
